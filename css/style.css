@@ -132,8 +132,9 @@ section.angwen div button {
   color: white;
 }
 .abich {
-  background-color: #f2f4f7;
   padding: 10%;
+  background-image: url(https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?cs=srgb&dl=pexels-anastasiya-gepp-2036646.jpg&fm=jpg);
+  background-size: cover;
 }
 .abich img {
   float: right;
@@ -145,9 +146,10 @@ section.angwen div button {
   justify-content: center;
   align-items: center;
 }
-.mogik h1 {
+/* .mogik h1,
+p {
   margin-left: 30%;
-}
+} */
 nav a:hover {
   border-bottom: 2px solid blue;
 }
