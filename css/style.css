@@ -91,7 +91,7 @@ button + div {
   padding: 2%;
 }
 .ariyo {
-  padding-top: 20%;
+  padding-top: 10%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -99,6 +99,7 @@ button + div {
 section.ariyo div {
   width: 20%;
   align-items: center;
+  text-align: center;
   justify-content: center;
   margin: 5%;
 }
